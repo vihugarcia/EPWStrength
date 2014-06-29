@@ -25,7 +25,7 @@ pwstrength plugin, found here: http://plugins.jquery.com/pwstrength
         <?php echo $form->error($model,'password'); ?>
     </div>
 	
-By default, it will use the minified version of the javascript- If you wish NOT to use
+By default, it will use the minified version of the javascript. If you wish NOT to use
 that, set useMin param to false in your configuration array.
 
 GitHub Repo - https://github.com/vihugarcia/EPWStrength
